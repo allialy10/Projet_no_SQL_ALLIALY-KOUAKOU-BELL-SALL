@@ -1,13 +1,15 @@
-1. Présentation du Projet
+1. Présentation du Projet :
+
+   
 Dans le but d'apprendre le fonctionnement des bases de données NoSql, nous avons créé une application implémentant les fonctions de CRUD.
 Nous avons conçu une application servant à gérer des livres. 
 ![image](https://github.com/allialy10/Projet_no_SQL_ALLIALY-KOUAKOU-BELL-SALL/assets/116551955/f3e8e170-a239-4865-9e6d-73c6c2f0f1c6)
 
-2. Presentation des fonctionnalités et outils utilisés
+3. Presentation des fonctionnalités et outils utilisés :
 
 Étant donné notre expérience limitée dans l'utilisation de NoSQL, nous avons choisi de développer une application simple reposant sur la base de données MongoDB. Pour la gestion de l'interface utilisateur, nous avons utilisé le module tkinter de Python, qui permet de concevoir des interfaces graphiques. Parmi les fonctionnalités de cette application, on retrouve la possibilité d'ajouter, de supprimer et de modifier un livre existant, ainsi que d'afficher la liste complète de tous les livres présents dans la table.
 
-3. Prérequis pour faire fonctionner l'application
+3. Prérequis pour faire fonctionner l'application :
 
 - Python3
 - Tkinter
